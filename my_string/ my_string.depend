@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691677624 source:d:\iti\lab_5_solves\ my_string\main.c
+	<stdio.h>
+	<string.h>
+
+1691783757 source:d:\embedded system\01_part 1 programming course\embeddedprojects\tasks\my_string\main.c
+	<stdio.h>
+	<string.h>
+	"my_string.h"
+
+1691697304 d:\embedded system\01_part 1 programming course\embeddedprojects\tasks\my_string\my_string.h
+
